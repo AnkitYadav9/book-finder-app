@@ -11,7 +11,7 @@ Built with React + TailwindCSS and powered by the Open Library API.
 - Error handling for empty/no results
 
 ## Tech Stack
--React + Vite
+- React + Vite
 - Tailwind CSS
 - Open Library API
 
